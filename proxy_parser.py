@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import lxml
 import base64
 
 baseURL = 'http://free-proxy.cz'
